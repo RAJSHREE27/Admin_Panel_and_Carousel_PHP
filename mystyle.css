@@ -1,0 +1,12 @@
+
+ .carousel {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+ }
+ 
+ .carousel > .carousel-inner >.carousel-item >img{
+    height: 90vh;
+    width: 70% ;
+    
+}
